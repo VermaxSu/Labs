@@ -1,0 +1,3 @@
+C:/Users/Матвей/Desktop/LR13NEW1/cmake-build-debug/CMakeFiles/LR13NEW1.dir
+C:/Users/Матвей/Desktop/LR13NEW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Матвей/Desktop/LR13NEW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
